@@ -1,0 +1,14 @@
+.dark-btn,
+.white-btn {
+    font-size: 28px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.dark-btn {
+    background-color: black;
+    color: white;
+}
+
+.white-btn{
+    background-color: yellow;
+}
