@@ -1,0 +1,22 @@
+p, div {
+    font-family: Verdana, sans-serif;
+}
+
+.pink-back {
+    background-color: rgb(193, 121, 121);
+}
+
+.large-font {
+    font-size: 36px;
+}
+
+#num2 {
+    color:rgb(53, 53, 251);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
